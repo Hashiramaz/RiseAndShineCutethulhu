@@ -1,0 +1,13 @@
+{
+"companyName": "Cleiton",
+"productName": "RiseAndShineCuteulhu",
+"dataUrl": "RiseAndShine-WebGL.data.unityweb",
+"asmCodeUrl": "RiseAndShine-WebGL.asm.code.unityweb",
+"asmMemoryUrl": "RiseAndShine-WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "RiseAndShine-WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
